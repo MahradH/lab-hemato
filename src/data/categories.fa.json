@@ -1,0 +1,8 @@
+[
+  { "id": "rbc-disorders", "label": "اختلالات گلبول قرمز" },
+  { "id": "rbc-morphology", "label": "اشکال مورفولوژیک RBC" },
+  { "id": "inclusions", "label": "اجسام داخل سلولی" },
+  { "id": "hemoglobin", "label": "اختلالات هموگلوبین" },
+  { "id": "agglutination", "label": "آگلوتیناسیون" },
+  { "id": "other", "label": "سایر یافته‌های هماتولوژی" }
+]

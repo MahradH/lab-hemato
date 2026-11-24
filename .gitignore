@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.cache/
+.tmp-review/
+reports/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.env.*

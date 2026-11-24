@@ -1,0 +1,471 @@
+{
+  "acanthocyte-spur-cell": {
+    "nameFa": "آکانتوسیت / سلول خاری",
+    "summary": "آکانتوسیت گلبول قرمزی با زوائد خاری نامنظم، پراکنده و با طول متفاوت است که از سطح سلول بیرون می‌زند. این سلول در اختلالات اکتسابی یا ارثی غشا و لیپیدهای پلاسما دیده می‌شود و برخلاف اکینوسیت، زوائد آن یکنواخت و مرتب نیستند.",
+    "keyFeatures": [
+      "زوائد خاری ۲ تا ۲۰ عدد، با طول و فاصله نامنظم و نوک تیز",
+      "از دست رفتن شکل دیسکی و کاهش تغییرپذیری شکل سلول",
+      "اغلب همراه با سلول‌های هدف و اسفروسیت در اسمیر",
+      "در لام تازه و ناحیه مناسب اسمیر ارزیابی شود؛ زوائد در لام کهنه تغییر می‌کنند"
+    ],
+    "diagnosticSignificance": "آکانتوسیت‌های فراوان در بیماری شدید کبدی (spur cell anemia)، آبلیپوپروتئینمی، سندرم McLeod و کره‌آکانتوسیتوز دیده می‌شوند. شمارش آن‌ها به تشخیص کمک می‌کند ولی به‌تنهایی اختصاصی نیست.",
+    "differentialDiagnosis": "از اکینوسیت (Burr cell) افتراق دهید: در اکینوسیت زوائد کوتاه، منظم و متعدد و اغلب برگشت‌پذیرند، در حالی که آکانتوسیت زوائد نامنظم و نامتقارن دارد. آرتیفکت ناشی از خشک‌شدن لام نیز باید کنار گذاشته شود.",
+    "categories": ["rbc-morphology"],
+    "tags": ["acanthocyte", "spur cell", "آکانتوسیت", "سلول خاری", "liver disease", "abetalipoproteinemia"],
+    "sources": [
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "b-thalassemia-minor": {
+    "nameFa": "بتا تالاسمی مینور",
+    "summary": "بتا تالاسمی مینور (ناقل بتا تالاسمی) معمولاً کم‌خونی خفیف یا بدون کم‌خونی با میکروسیتوز و هیپوکرومی مشخص می‌شود. اسمیر محیطی می‌تواند سلول‌های هدف، دانه‌بندی بازوفیلیک و تغییرات خفیف شکل را نشان دهد.",
+    "keyFeatures": [
+      "میکروسیتوز و هیپوکرومی نامتناسب با شدت کم‌خونی",
+      "سلول‌های هدف و آنیزوسیتوز خفیف",
+      "دانه‌بندی بازوفیلیک نقطه‌ای در برخی موارد",
+      "شمارش طبیعی یا نزدیک به طبیعی گلبول‌های قرمز با MCV پایین"
+    ],
+    "diagnosticSignificance": "افزایش HbA2 (معمولاً بیش از ۳٫۵ درصد) در الکتروفورز یا کروماتوگرافی، همراه با سابقه خانوادگی، تشخیص را تأیید می‌کند. تشخیص ناقل اهمیت زیادی در مشاوره ژنتیک دارد.",
+    "differentialDiagnosis": "مهم‌ترین افتراق، کم‌خونی فقر آهن است که در آن RDW بالاتر و آهن سرم/فریتین پایین است؛ شاخص Mentzer و HbA2 کمک‌کننده‌اند. تالاسمی آلفا نیز می‌تواند تصویر مشابهی بسازد.",
+    "categories": ["hemoglobin", "rbc-disorders"],
+    "tags": ["beta thalassemia minor", "thalassemia trait", "بتا تالاسمی مینور", "microcytic anemia", "target cell"],
+    "sources": [
+      { "title": "MedlinePlus Genetics — Beta-thalassemia", "url": "https://medlineplus.gov/genetics/condition/beta-thalassemia/" },
+      { "title": "Adewoyin AS, Nwogoh B. Peripheral blood film — a review. Ann Ib Postgrad Med. 2014", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415389" }
+    ]
+  },
+  "basophilic-stippling": {
+    "nameFa": "دانه‌بندی بازوفیلیک",
+    "summary": "دانه‌بندی بازوفیلیک به تجمع ریبوزوم‌ها و RNA باقی‌مانده در سیتوپلاسم گلبول قرمز گفته می‌شود که به صورت نقاط آبی-بنفش ریز و پراکنده دیده می‌شود. این یافته نشانه اختلال در بلوغ یا تخریب RNA است و در طیف وسیعی از کم‌خونی‌ها دیده می‌شود.",
+    "keyFeatures": [
+      "نقاط ریز آبی-بنفش متعدد و پراکنده در سیتوپلاسم",
+      "توزیع نسبتاً یکنواخت در سلول، برخلاف اجسام بزرگ منفرد",
+      "اغلب همراه با میکروسیتوز، هیپوکرومی یا پلی‌کرومازی",
+      "در رنگ‌آمیزی رایت-گیمسا قابل مشاهده است"
+    ],
+    "diagnosticSignificance": "در مسمومیت با سرب، تالاسمی‌ها، کم‌خونی مگالوبلاستیک، کمبود پیریمیدین ۵′-نوکلئوتیداز و مصرف الکل دیده می‌شود. وجود آن همراه با کم‌خونی میکروسیتیک، یکی از سرنخ‌های تالاسمی یا مسمومیت سرب است.",
+    "differentialDiagnosis": "از اجسام Pappenheimer (آهن، نامنظم و بزرگ‌تر، مثبت با رنگ پروسین بلو) و اجسام Howell-Jolly (باقی‌مانده هسته، گرد و منفرد) افتراق دهید. دانه‌بندی درشت و کم‌تعداد بیشتر به سرب یا اختلال آنزیمی شک می‌کند.",
+    "categories": ["inclusions", "rbc-morphology"],
+    "tags": ["basophilic stippling", "دانه بندی بازوفیلیک", "lead poisoning", "thalassemia", "Pappenheimer"],
+    "sources": [
+      { "title": "Palmer L, et al. ICSH recommendations for nomenclature and grading of peripheral blood cell morphological features. 2015", "url": "https://onlinelibrary.wiley.com/doi/10.1111/ijlh.12327" },
+      { "title": "NCBI Bookshelf — Peripheral Blood Smear (Clinical Methods)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK263" }
+    ]
+  },
+  "bite-cell-blister-cell": {
+    "nameFa": "بایت سل / بلیستر سل",
+    "summary": "بایت سل گلبول قرمزی است که بخشی از سیتوپلاسم آن برداشته شده و شکل نیم‌دایره یا «گاز گرفته‌شده» پیدا کرده است. بلیستر سل مرحله پیش از آن است که در آن هموگلوبین دناتوره به سطح سلول می‌رود و وزیکول ایجاد می‌کند.",
+    "keyFeatures": [
+      "نقص یا فرورفتگی مشخص در یک طرف سلول، شبیه گاز گرفته‌شدن",
+      "وزیکول یا حباب در مرحله بلیستر سل",
+      "اغلب همراه با آنیزوسیتوز، شیستوسیت و پلی‌کرومازی",
+      "اجسام Heinz در رنگ‌آمیزی ویتال قابل اثبات است"
+    ],
+    "diagnosticSignificance": "بایت سل و بلیستر سل نشانه همولیز اکسیداتیو هستند، به‌ویژه کمبود G6PD و هموگلوبین‌های ناپایدار. در کمبود G6PD، این سلول‌ها پس از مواجهه با استرس اکسیداتیو (دارو، عفونت، باقلا) ظاهر می‌شوند.",
+    "differentialDiagnosis": "از شیستوسیت (قطعه‌قطعه‌شدن مکانیکی) و سلول‌های هدف افتراق دهید. بایت سل معمولاً یک نقص منفرد و گرد دارد، در حالی که شیستوسیت قطعات مثلثی یا کلاه‌خودی دارد. رنگ‌آمیزی ویتال برای Heinz body کمک‌کننده است.",
+    "categories": ["rbc-morphology", "rbc-disorders"],
+    "tags": ["bite cell", "blister cell", "بایت سل", "بلیستر سل", "G6PD deficiency", "oxidative hemolysis", "Heinz body"],
+    "sources": [
+      { "title": "MedlinePlus Genetics — Glucose-6-phosphate dehydrogenase deficiency", "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/" },
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" }
+    ]
+  },
+  "blurred-cell": {
+    "nameFa": "سلول تار (نیازمند بازبینی)",
+    "summary": "«Blurred cell» یک یافته مورفولوژیک استاندارد در هماتولوژی نیست و در منابع معتبر به‌عنوان یک رده سلولی مستقل تعریف نشده است. تصویر حاضر احتمالاً تاری ناشی از فوکوس نامناسب، ضخامت لام یا حرکت در حین عکاسی را نشان می‌دهد و نباید به‌عنوان یک تشخیص آزمایشگاهی تفسیر شود.",
+    "keyFeatures": [
+      "مرزهای سلول‌ها به‌طور یکنواخت محو و بدون جزئیات واضح است",
+      "الگوی تاری در چند سلول مجاور دیده می‌شود، نه در یک سلول منفرد",
+      "جزئیات هسته و سیتوپلاسم سلول‌های سفید نیز مبهم است",
+      "ممکن است با اسمیر ضخیم یا لام کهنه اشتباه شود"
+    ],
+    "diagnosticSignificance": "این تصویر برای آموزش «تشخیص یک یافته» مناسب نیست و بهتر است به‌عنوان نمونه‌ای از محدودیت کیفیت تصویر یا آرتیفکت در نظر گرفته شود. اگر منظور از نام فایل، Smudge cell (basket cell) در لوسمی لنفوسیتی مزمن بوده باشد، باید با اسمیر باکیفیت تأیید شود.",
+    "differentialDiagnosis": "تاری تصویری را از اسمیر ضخیم، لام کهنه، آلودگی فوکوس و اسمیر نامناسب افتراق دهید. Smudge cell یک سلول شکسته با کروماتین پراکنده است، نه یک سلول کامل تار؛ تشخیص آن به مشاهده هسته پیکنوتیک و سیتوپلاسم کشیده نیاز دارد.",
+    "categories": ["other"],
+    "tags": ["blurred cell", "artifact", "smudge cell", "سلول تار", "آرتیفکت", "needs review"],
+    "needsReview": true,
+    "sources": [
+      { "title": "Palmer L, et al. ICSH recommendations for nomenclature and grading of peripheral blood cell morphological features. 2015", "url": "https://onlinelibrary.wiley.com/doi/10.1111/ijlh.12327" },
+      { "title": "NCBI Bookshelf — Peripheral Blood Smear (Clinical Methods)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK263" }
+    ]
+  },
+  "cold-autoagglutination-disease": {
+    "nameFa": "بیماری آگلوتیناسیون سرد",
+    "summary": "در آگلوتیناسیون سرد، آنتی‌بادی‌های IgM (اغلب علیه آنتی‌ژن I) در دمای اتاق به گلبول‌های قرمز می‌چسبند و آن‌ها را به هم می‌چسبانند. اسمیر محیطی خوشه‌های نامنظم و بزرگ گلبول قرمز را نشان می‌دهد که با گرم‌کردن نمونه تا ۳۷ درجه سانتی‌گراد باز می‌شوند.",
+    "keyFeatures": [
+      "خوشه‌های نامنظم و غیرخطی گلبول‌های قرمز (agglutination)",
+      "فضاهای خالی بین توده‌های سلولی در اسمیر",
+      "ممکن است شمارش خودکار RBC و MCV را مختل کند",
+      "گرم‌کردن نمونه، آگلوتیناسیون را برمی‌گرداند"
+    ],
+    "diagnosticSignificance": "آگلوتیناسیون سرد می‌تواند در بیماری آگلوتینین سرد، عفونت مایکوپلاسما یا EBV و بیماری‌های لنفوپرولیفراتیو دیده شود. تشخیص افتراقی آن از رولُو (rouleaux) اهمیت دارد، زیرا رولُو به افزایش پروتئین‌های پلاسما اشاره می‌کند.",
+    "differentialDiagnosis": "در رولُو، گلبول‌ها مانند سکه‌ها روی هم قرار می‌گیرند و مرز سلول‌ها قابل تشخیص است؛ در آگلوتیناسیون واقعی، توده‌های نامنظم و غیرقابل تفکیک تشکیل می‌شود. آگلوتیناسیون EDTA وابسته نیز باید با نمونه سیترات بررسی شود.",
+    "categories": ["agglutination", "rbc-disorders"],
+    "tags": ["cold agglutination", "cold agglutinin", "آگلوتیناسیون سرد", "IgM", "rouleaux", "Mycoplasma"],
+    "sources": [
+      { "title": "Adewoyin AS, Nwogoh B. Peripheral blood film — a review. Ann Ib Postgrad Med. 2014", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415389" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "dimorphism": {
+    "nameFa": "دیمورفیسم (دو جمعیت گلبول قرمز)",
+    "summary": "دیمورفیسم به حضور دو جمعیت متمایز گلبول قرمز در یک اسمیر گفته می‌شود؛ مثلاً یک جمعیت نرموسیتیک-نرموکروم و یک جمعیت میکروسیتیک-هیپوکروم. این یافته نشان می‌دهد دو فرآیند یا دو منبع سلولی متفاوت هم‌زمان وجود دارند.",
+    "keyFeatures": [
+      "دو اندازه و رنگ‌پذیری متمایز در یک میدان",
+      "جمعیت میکروسیتیک هیپوکروم در کنار سلول‌های طبیعی",
+      "افزایش RDW و آنیزوسیتوز بارز",
+      "ممکن است سلول‌های هدف در جمعیت میکروسیتیک دیده شود"
+    ],
+    "diagnosticSignificance": "دیمورفیسم در کمبود آهن همراه با تالاسمی مینور، کم‌خونی سیدروبلاستیک، پس از تزریق خون، و در مرحله پاسخ به درمان کم‌خونی دیده می‌شود. شناخت آن از تفسیر نادرست یک کم‌خونی میکروسیتیک ساده جلوگیری می‌کند.",
+    "differentialDiagnosis": "از آنیزوسیتوز عمومی و آرتیفکت ناشی از ناحیه ضخیم اسمیر افتراق دهید. برای تأیید، اندازه‌گیری شاخص‌های گلبول قرمز و بررسی تاریخچه تزریق خون یا درمان آهن کمک‌کننده است.",
+    "categories": ["rbc-disorders"],
+    "tags": ["dimorphism", "دیمورفیسم", "two populations", "iron deficiency", "thalassemia", "transfusion"],
+    "sources": [
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" },
+      { "title": "NCBI Bookshelf — Peripheral Blood Smear (Clinical Methods)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK263" }
+    ]
+  },
+  "echinocyte": {
+    "nameFa": "اکینوسیت (Burr cell)",
+    "summary": "اکینوسیت گلبول قرمزی با زوائد کوتاه، متعدد، منظم و فاصله‌دار یکنواخت روی سطح است. این تغییر اغلب برگشت‌پذیر است و می‌تواند ناشی از شرایط آزمایشگاهی یا اختلالات متابولیک و همولیز باشد.",
+    "keyFeatures": [
+      "زوائد کوتاه و یکنواخت با فاصله‌های منظم",
+      "حفظ نسبی شکل دیسکی در مراحل خفیف",
+      "قابلیت برگشت با شست‌وشو یا انکوباسیون در برخی موارد",
+      "توزیع یکنواخت در سراسر سطح سلول"
+    ],
+    "diagnosticSignificance": "اکینوسیت در لام‌های کهنه، خون نگه‌داری‌شده در EDTA، اورمی، بیماری کبدی، کمبود پیروات کیناز و پس از مصرف برخی داروها دیده می‌شود. تعداد زیاد و پایدار آن می‌تواند به اختلال غشا یا متابولیسم اشاره کند.",
+    "differentialDiagnosis": "مهم‌ترین افتراق، آکانتوسیت است که زوائد نامنظم، بلندتر و نامتقارن دارد. اکینوسیت‌های ناشی از آرتیفکت با تهیه لام تازه و بررسی مجدد کاهش می‌یابند.",
+    "categories": ["rbc-morphology"],
+    "tags": ["echinocyte", "burr cell", "اکینوسیت", "uremia", "artifact", "pyruvate kinase"],
+    "sources": [
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" },
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" }
+    ]
+  },
+  "fragmented-rbc-schistocyte": {
+    "nameFa": "شیستوسیت / گلبول قرمز قطعه‌قطعه",
+    "summary": "شیستوسیت قطعه‌ای از گلبول قرمز است که در اثر آسیب مکانیکی به غشا جدا شده و اشکال مثلثی، کلاه‌خودی یا نامنظم دارد. حضور قابل توجه شیستوسیت در اسمیر، نشانه همولیز میکروآنژیوپاتیک است.",
+    "keyFeatures": [
+      "قطعات کوچک با لبه‌های تیز و اشکال مثلثی یا کلاه‌خودی",
+      "کاهش اندازه و از دست رفتن مرکز روشن طبیعی",
+      "همراه با پلی‌کرومازی، اسفروسیت و افزایش LDH",
+      "شمارش در ناحیه مناسب اسمیر و با بزرگ‌نمایی ۱۰۰×"
+    ],
+    "diagnosticSignificance": "شیستوسیت‌ها در TTP، HUS، DIC، اکلامپسیا، دریچه مصنوعی قلب، دستگاه‌های کمکی بطن و سوختگی شدید دیده می‌شوند. شمارش آن‌ها (مثلاً بیش از ۱ درصد) در تشخیص TMA نقش کلیدی دارد.",
+    "differentialDiagnosis": "از بایت سل (نقص گرد یک‌طرفه) و سلول‌های هدف افتراق دهید. قطعات کوچک ناشی از آسیب لام نیز نباید شیستوسیت شمرده شوند؛ شکل‌های متعدد و توزیع همراه با علائم همولیز مهم‌اند.",
+    "categories": ["rbc-morphology", "rbc-disorders"],
+    "tags": ["schistocyte", "fragmented RBC", "شیستوسیت", "MAHA", "TTP", "DIC", "helmet cell"],
+    "sources": [
+      { "title": "Palmer L, et al. ICSH recommendations for nomenclature and grading of peripheral blood cell morphological features. 2015", "url": "https://onlinelibrary.wiley.com/doi/10.1111/ijlh.12327" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "hb-h-disease": {
+    "nameFa": "بیماری Hb H",
+    "summary": "بیماری Hb H نوعی تالاسمی آلفا با از دست رفتن سه ژن آلفا است که در آن تترامرهای بتا (Hb H) تشکیل می‌شوند. کم‌خونی میکروسیتیک-هیپوکروم، سلول‌های هدف، دانه‌بندی بازوفیلیک و هموگلوبین‌های ناپایدار از ویژگی‌های آن هستند.",
+    "keyFeatures": [
+      "میکروسیتوز و هیپوکرومی بارز",
+      "سلول‌های هدف و تغییرات شکل متنوع",
+      "دانه‌بندی بازوفیلیک و اجسام Heinz",
+      "در رنگ‌آمیزی ویتال، اجسام Hb H شبیه توپ گلف دیده می‌شوند"
+    ],
+    "diagnosticSignificance": "بیماری Hb H معمولاً با کم‌خونی خفیف تا متوسط، هپاتواسپلنومگالی و گاهی همولیز همراه است. تشخیص با الکتروفورز هموگلوبین و بررسی ژنتیکی آلفا تأیید می‌شود و در مشاوره ژنتیک اهمیت دارد.",
+    "differentialDiagnosis": "از بتا تالاسمی و کم‌خونی فقر آهن افتراق دهید؛ در Hb H، HbA2 معمولاً پایین یا طبیعی است و اجسام Hb H در رنگ ویتال دیده می‌شود. میکروسیتوز شدید با کم‌خونی خفیف نیز سرنخ تالاسمی است.",
+    "categories": ["hemoglobin", "rbc-disorders"],
+    "tags": ["Hb H disease", "alpha thalassemia", "بیماری Hb H", "تالاسمی آلفا", "Heinz body", "target cell"],
+    "sources": [
+      { "title": "MedlinePlus Genetics — Alpha-thalassemia", "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/" },
+      { "title": "Adewoyin AS, Nwogoh B. Peripheral blood film — a review. Ann Ib Postgrad Med. 2014", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415389" }
+    ]
+  },
+  "heinz-body": {
+    "nameFa": "جسم هاینز",
+    "summary": "جسم هاینز رسوب هموگلوبین دناتوره در سیتوپلاسم گلبول قرمز است که در اثر استرس اکسیداتیو ایجاد می‌شود. این اجسام با رنگ‌آمیزی معمول رایت-گیمسا به‌سختی دیده می‌شوند و برای مشاهده باید از رنگ ویتال مانند متیلن بلو تازه استفاده کرد.",
+    "keyFeatures": [
+      "اجسام گرد، منفرد یا متعدد و معمولاً در حاشیه سلول",
+      "فقط با رنگ ویتال (new methylene blue) به‌وضوح دیده می‌شوند",
+      "همراه با بایت سل، بلیستر سل و همولیز",
+      "در کمبود G6PD پس از استرس اکسیداتیو شایع‌اند"
+    ],
+    "diagnosticSignificance": "وجود Heinz body نشانه آسیب اکسیداتیو به هموگلوبین است و در کمبود G6PD، هموگلوبین‌های ناپایدار، مصرف داروهای اکسیدان و برخی مسمومیت‌ها دیده می‌شود. این یافته به تشخیص علت همولیز کمک می‌کند.",
+    "differentialDiagnosis": "از اجسام Howell-Jolly (باقی‌مانده هسته، رنگ‌پذیری تیره با رنگ معمول) و اجسام Pappenheimer (آهن) افتراق دهید. محل و رنگ‌پذیری با رنگ ویتال و پاسخ به رنگ‌آمیزی پروسین بلو تعیین‌کننده است.",
+    "categories": ["inclusions", "rbc-disorders"],
+    "tags": ["Heinz body", "جسم هاینز", "G6PD", "oxidative stress", "supravital stain", "bite cell"],
+    "sources": [
+      { "title": "MedlinePlus Genetics — Glucose-6-phosphate dehydrogenase deficiency", "url": "https://medlineplus.gov/genetics/condition/glucose-6-phosphate-dehydrogenase-deficiency/" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "hemoglobin-c-crystal": {
+    "nameFa": "کریستال هموگلوبین C",
+    "summary": "در بیماری هموگلوبین C، هموگلوبین غیرطبیعی می‌تواند در سیتوپلاسم گلبول قرمز متبلور شود و اجسام شش‌ضلعی یا میله‌ای شکل ایجاد کند. این کریستال‌ها اغلب به شکل «شمش طلا» یا «یادبود واشینگتن» توصیف می‌شوند.",
+    "keyFeatures": [
+      "کریستال‌های شش‌ضلعی یا میله‌ای، اغلب قرمز-بنفش",
+      "محل intracellular و همراه با سلول‌های هدف",
+      "ممکن است فقط در تعداد کمی از سلول‌ها دیده شود",
+      "در هموزیگوت HbC (بیماری CC) شایع‌تر است"
+    ],
+    "diagnosticSignificance": "کریستال HbC در بیماری هموگلوبین C (ژنوتیپ CC) دیده می‌شود و با کم‌خونی همولیتیک خفیف، اسپلنومگالی و سلول‌های هدف همراه است. ناقلان HbC معمولاً بدون علامت‌اند و ممکن است کریستال نداشته باشند.",
+    "differentialDiagnosis": "از کریستال‌های HbSC و اجسام داخل‌سلولی دیگر افتراق دهید. تشخیص نهایی با الکتروفورز یا کروماتوگرافی هموگلوبین است؛ وجود کریستال به‌تنهایی برای تشخیص کافی نیست.",
+    "categories": ["hemoglobin", "inclusions"],
+    "tags": ["hemoglobin C", "HbC crystal", "کریستال هموگلوبین C", "target cell", "hemolytic anemia"],
+    "sources": [
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" },
+      { "title": "Adewoyin AS, Nwogoh B. Peripheral blood film — a review. Ann Ib Postgrad Med. 2014", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415389" }
+    ]
+  },
+  "hereditary-elliptocytosis": {
+    "nameFa": "الیپتوسیتوز ارثی",
+    "summary": "الیپتوسیتوز ارثی یک اختلال غشای گلبول قرمز است که با حضور تعداد قابل توجهی الیپتوسیت (سلول‌های بیضی‌شکل) مشخص می‌شود. بیشتر افراد مبتلا بدون علامت‌اند، اما شکل هموزیگوت یا شدید آن می‌تواند با همولیز همراه باشد.",
+    "keyFeatures": [
+      "الیپتوسیت‌های متعدد، معمولاً بیش از ۲۵ درصد گلبول‌ها",
+      "محور طولی سلول بزرگ‌تر از محور عرضی با مرکز روشن کشیده",
+      "نبود آنیزوسیتوز و پویکیلوسیتوز شدید در فرم‌های خفیف",
+      "گاهی همراه با سلول‌های هدف یا استوماتوسیت"
+    ],
+    "diagnosticSignificance": "تشخیص بر پایه اسمیر، سابقه خانوادگی و بررسی غشای گلبول قرمز است. افتراق آن از الیپتوسیت‌های ثانویه اهمیت دارد، زیرا مدیریت و مشاوره ژنتیک متفاوت است.",
+    "differentialDiagnosis": "الیپتوسیت در کمبود آهن، کم‌خونی مگالوبلاستیک، میلوفیبروز و برخی اختلالات اکتسابی نیز دیده می‌شود. در HE، الیپتوسیت‌ها پایدار و فراوان‌اند و سایر علل باید رد شوند.",
+    "categories": ["rbc-disorders", "rbc-morphology"],
+    "tags": ["hereditary elliptocytosis", "elliptocyte", "الیپتوسیتوز ارثی", "spectrin", "ovalocyte"],
+    "sources": [
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" },
+      { "title": "Palmer L, et al. ICSH recommendations for nomenclature and grading of peripheral blood cell morphological features. 2015", "url": "https://onlinelibrary.wiley.com/doi/10.1111/ijlh.12327" }
+    ]
+  },
+  "hereditary-pyropoikilocytosis": {
+    "nameFa": "پویروپویکیلوسیتوز ارثی",
+    "summary": "پویروپویکیلوسیتوز ارثی (HPP) یک اختلال شدید و نادر غشای گلبول قرمز است که با پویکیلوسیتوز بارز، قطعات سلولی، میکروسیتوز و همولیز مشخص می‌شود. این بیماری معمولاً در نوزادی با زردی و کم‌خونی ظاهر می‌شود.",
+    "keyFeatures": [
+      "پویکیلوسیتوز شدید با اشکال نامنظم و قطعات متعدد",
+      "میکروسیتوز بارز و آنیزوسیتوز",
+      "سلول‌های شبیه شیستوسیت و اسفروسیت",
+      "افزایش حساسیت غشا به حرارت در آزمایش‌های تخصصی"
+    ],
+    "diagnosticSignificance": "HPP در طیف اختلالات spectrin قرار دارد و ممکن است با الیپتوسیتوز ارثی همراه باشد. تشخیص زودهنگام برای مدیریت کم‌خونی، زردی نوزادی و نیاز به تزریق خون اهمیت دارد.",
+    "differentialDiagnosis": "از الیپتوسیتوز ارثی شدید، اسفروسیتوز ارثی، کم‌خونی همولیتیک ایمنی و TMA افتراق دهید. آزمایش حساسیت حرارتی و بررسی ژنتیکی spectrin در موارد مشکوک کمک‌کننده است.",
+    "categories": ["rbc-disorders", "rbc-morphology"],
+    "tags": ["HPP", "pyropoikilocytosis", "پویروپویکیلوسیتوز", "spectrin", "hemolytic anemia"],
+    "sources": [
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" },
+      { "title": "Palmer L, et al. ICSH recommendations for nomenclature and grading of peripheral blood cell morphological features. 2015", "url": "https://onlinelibrary.wiley.com/doi/10.1111/ijlh.12327" }
+    ]
+  },
+  "howell-jolly-body": {
+    "nameFa": "جسم هاول-جولی",
+    "summary": "جسم Howell-Jolly باقی‌مانده هسته (DNA) در گلبول قرمز است که به صورت یک جسم گرد، کوچک و تیره در سیتوپلاسم دیده می‌شود. این یافته معمولاً نشانه کاهش یا فقدان عملکرد طحال است.",
+    "keyFeatures": [
+      "جسم گرد، منفرد یا حداکثر دو عدد در یک سلول",
+      "رنگ بنفش تیره و اندازه کوچک و یکنواخت",
+      "اغلب در گلبول‌های قرمز بالغ و بدون هسته",
+      "ممکن است همراه با سلول‌های هدف و پلی‌کرومازی باشد"
+    ],
+    "diagnosticSignificance": "در هیپواسپلنی، اسپلنکتومی، کم‌خونی داسی‌شکل، کم‌خونی همولیتیک و مگالوبلاستیک دیده می‌شود. وجود آن در اسمیر می‌تواند سرنخ مهمی برای ارزیابی عملکرد طحال یا پاسخ مغز استخوان باشد.",
+    "differentialDiagnosis": "از اجسام Pappenheimer (آهن، نامنظم و متعدد، مثبت با پروسین بلو) و Heinz body (فقط با رنگ ویتال) افتراق دهید. انگل‌های مالاریا نیز باید با دقت کنار گذاشته شوند؛ Howell-Jolly ساختار گرد و بدون حلقه است.",
+    "categories": ["inclusions"],
+    "tags": ["Howell-Jolly body", "جسم هاول جولی", "hyposplenia", "splenectomy", "nuclear remnant", "Pappenheimer"],
+    "sources": [
+      { "title": "NCBI Bookshelf — Peripheral Blood Smear (Clinical Methods)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK263" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "mushroom-cell": {
+    "nameFa": "سلول قارچی (Pincer cell)",
+    "summary": "سلول قارچی یا pincer cell گونه‌ای پویکیلوسیت است که شکلی شبیه اسفروسیت با دو فرورفتگی قرینه دارد و به سلول قارچ یا انبرک شباهت پیدا می‌کند. این شکل اغلب در اختلالات غشای گلبول قرمز و همولیز میکروآنژیوپاتیک توصیف می‌شود.",
+    "keyFeatures": [
+      "بدنه گرد و یک زائده یا دو فرورفتگی قرینه",
+      "شباهت به اسفروسیت با نقص غشایی",
+      "معمولاً در تعداد کم و همراه با سایر پویکیلوسیت‌ها",
+      "نبود مرکز روشن طبیعی"
+    ],
+    "diagnosticSignificance": "در اسفروسیتوز ارثی (به‌ویژه نقص band 3)، DIC، کم‌خونی همولیتیک میکروآنژیوپاتیک، اریترولوسمی و عفونت SARS-CoV-2 گزارش شده است. به‌تنهایی یک تشخیص نیست و باید در بستر بالینی تفسیر شود.",
+    "differentialDiagnosis": "از اسفروسیت، بایت سل و شیستوسیت افتراق دهید. شکل قرینه و زائده مشخص آن را از قطعات تصادفی جدا می‌کند، اما تشخیص نهایی همچنان بر بررسی کامل اسمیر و یافته‌های بالینی استوار است.",
+    "categories": ["rbc-morphology", "rbc-disorders"],
+    "tags": ["mushroom cell", "pincer cell", "سلول قارچی", "hereditary spherocytosis", "MAHA", "band 3"],
+    "sources": [
+      { "title": "ASH Image Bank — Mushroom-shaped red blood cell", "url": "https://imagebank.hematology.org/collection/63928" },
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" }
+    ]
+  },
+  "pencil-shaped-rbc": {
+    "nameFa": "گلبول قرمز مدادی",
+    "summary": "گلبول قرمز مدادی نوعی الیپتوسیت بسیار کشیده است که شکل باریک و دراز با انتهای گرد دارد. این شکل در کم‌خونی‌های میکروسیتیک، به‌ویژه فقر آهن و تالاسمی، و در الیپتوسیتوز ارثی دیده می‌شود.",
+    "keyFeatures": [
+      "سلول باریک و کشیده با محور طولی بسیار بلند",
+      "انتهای گرد و مرکز روشن کشیده",
+      "اغلب همراه با میکروسیتوز و هیپوکرومی",
+      "حضور در کنار الیپتوسیت‌های معمول"
+    ],
+    "diagnosticSignificance": "گلبول مدادی در کم‌خونی فقر آهن، تالاسمی و الیپتوسیتوز ارثی گزارش می‌شود. تعداد زیاد آن در کنار سایر شواهد، به سمت اختلال ساختاری غشا یا کم‌خونی میکروسیتیک هدایت می‌کند.",
+    "differentialDiagnosis": "از شیستوسیت کشیده و آرتیفکت ناشی از کشیدن لام افتراق دهید. در الیپتوسیتوز ارثی، سلول‌های بیضی و مدادی پایدار و فراوان‌اند؛ در فقر آهن، پاسخ به درمان آهن شکل را اصلاح می‌کند.",
+    "categories": ["rbc-morphology"],
+    "tags": ["pencil cell", "pencil shaped RBC", "گلبول مدادی", "iron deficiency", "thalassemia", "elliptocyte"],
+    "sources": [
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "platelet-satellitism": {
+    "nameFa": "ماهواره‌شدن پلاکت",
+    "summary": "در پدیده ماهواره‌شدن پلاکت، پلاکت‌ها دور نوتروفیل‌ها (و گاهی مونوسیت‌ها) حلقه می‌زنند. این پدیده معمولاً یک آرتیفکت وابسته به EDTA است و می‌تواند شمارش خودکار پلاکت را به‌طور کاذب پایین نشان دهد.",
+    "keyFeatures": [
+      "چسبیدن چند پلاکت به دور یک نوتروفیل",
+      "ظاهر رزت یا ماهواره‌ای در لام رنگ‌آمیزی‌شده",
+      "عدم وجود علائم خونریزی در بسیاری از موارد",
+      "برگشت پدیده در نمونه سیترات یا هپارین"
+    ],
+    "diagnosticSignificance": "شناسایی آن از تشخیص نادرست ترومبوسیتوپنی و درمان غیرضروری جلوگیری می‌کند. در بیمار با شمارش پلاکت پایین ولی اسمیر طبیعی، باید به فکر آرتیفکت EDTA بود.",
+    "differentialDiagnosis": "از تجمع پلاکتی واقعی و ترومبوسیتوپنی واقعی افتراق دهید. شمارش دستی در نمونه سیترات و بررسی لام از نظر وجود پلاکت‌های اطراف نوتروفیل کمک‌کننده است.",
+    "categories": ["other"],
+    "tags": ["platelet satellitism", "ماهواره شدن پلاکت", "EDTA", "pseudothrombocytopenia", "neutrophil"],
+    "sources": [
+      { "title": "Palmer L, et al. ICSH recommendations for nomenclature and grading of peripheral blood cell morphological features. 2015", "url": "https://onlinelibrary.wiley.com/doi/10.1111/ijlh.12327" },
+      { "title": "NCBI Bookshelf — Peripheral Blood Smear (Clinical Methods)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK263" }
+    ]
+  },
+  "polychromasia": {
+    "nameFa": "پلی‌کرومازی",
+    "summary": "پلی‌کرومازی به حضور گلبول‌های قرمز بزرگ‌تر با رنگ آبی-خاکستری در رنگ‌آمیزی رایت-گیمسا گفته می‌شود که معادل رتیکولوسیت‌های تازه‌وارد به گردش خون هستند. افزایش آن نشان‌دهنده پاسخ مغز استخوان است.",
+    "keyFeatures": [
+      "گلبول‌های قرمز بزرگ‌تر با ته‌رنگ آبی-خاکستری",
+      "عدم وجود مرکز روشن مشخص در برخی سلول‌ها",
+      "پراکندگی نامنظم در اسمیر",
+      "همراه با آنیزوسیتوز و گاهی هسته‌های باقی‌مانده"
+    ],
+    "diagnosticSignificance": "در همولیز، خونریزی، پاسخ به درمان کم‌خونی و بیماری‌های مغز استخوان دیده می‌شود. ارزیابی آن باید با شمارش رتیکولوسیت و شاخص‌های همولیز همراه شود.",
+    "differentialDiagnosis": "از سلول‌های هدف و آرتیفکت رنگ‌آمیزی افتراق دهید. پلی‌کرومازی واقعی با افزایش رتیکولوسیت همراه است؛ رنگ‌آمیزی ناهموار یا ضخامت لام می‌تواند ظاهری مشابه ایجاد کند.",
+    "categories": ["rbc-disorders", "rbc-morphology"],
+    "tags": ["polychromasia", "پلی کرومازی", "reticulocyte", "hemolysis", "marrow response"],
+    "sources": [
+      { "title": "NCBI Bookshelf — Peripheral Blood Smear (Clinical Methods)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK263" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "sickle-cell-drepanocyte": {
+    "nameFa": "سلول داسی / درپانوسیت",
+    "summary": "سلول داسی گلبول قرمزی است که در اثر پلیمریزاسیون هموگلوبین S در شرایط کم‌اکسیژنی شکل هلالی یا داسی پیدا می‌کند. این سلول‌ها عامل اصلی انسداد عروق و همولیز در بیماری داسی‌شکل هستند.",
+    "keyFeatures": [
+      "شکل هلالی یا داسی با دو انتهای تیز",
+      "کاهش یا فقدان مرکز روشن",
+      "همراه با سلول‌های هدف، Howell-Jolly و پلی‌کرومازی",
+      "حضور سلول‌های داسی برگشت‌ناپذیر در اسمیر"
+    ],
+    "diagnosticSignificance": "وجود سلول داسی در اسمیر، همراه با آنمی همولیتیک و سابقه خانوادگی، به تشخیص بیماری داسی‌شکل کمک می‌کند. تأیید با آزمون داسی‌شدن یا الکتروفورز هموگلوبین انجام می‌شود.",
+    "differentialDiagnosis": "از الیپتوسیت کشیده و آرتیفکت خشک‌شدن افتراق دهید. سلول داسی واقعی ضخیم، هلالی و اغلب همراه با سایر نشانه‌های بیماری داسی‌شکل است.",
+    "categories": ["hemoglobin", "rbc-morphology"],
+    "tags": ["sickle cell", "drepanocyte", "سلول داسی", "HbS", "sickle cell disease", "vaso-occlusion"],
+    "sources": [
+      { "title": "MedlinePlus Genetics — Sickle cell disease", "url": "https://medlineplus.gov/genetics/condition/sickle-cell-disease/" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "south-east-asian-ovalocytosis": {
+    "nameFa": "اوالوسیتوز جنوب شرق آسیا",
+    "summary": "اوالوسیتوز جنوب شرق آسیا (SAO) یک اختلال ارثی غشای گلبول قرمز است که به دلیل حذف در ژن band 3 ایجاد می‌شود. گلبول‌ها شکل بیضی یا Oval با یک شکاف یا خط عرضی مشخص پیدا می‌کنند و معمولاً فرد بدون علامت است.",
+    "keyFeatures": [
+      "اوالوسیت‌های متعدد با شکل یکنواخت",
+      "وجود شکاف یا خط عرضی در مرکز سلول",
+      "گاهی استوماتوسیت و سلول‌های هدف",
+      "نبود کم‌خونی شدید در بیشتر موارد"
+    ],
+    "diagnosticSignificance": "SAO در جنوب شرق آسیا و برخی مناطق مدیترانه‌ای شایع است و مقاومت نسبی در برابر مالاریا ایجاد می‌کند. تشخیص آن از الیپتوسیتوز ارثی و اوالوسیتوزهای اکتسابی مهم است.",
+    "differentialDiagnosis": "از الیپتوسیتوز ارثی (بدون شکاف عرضی و با توارث متفاوت) و اوالوسیتوز ناشی از کم‌خونی مگالوبلاستیک افتراق دهید. بررسی ژنتیکی band 3 در موارد نامشخص کمک‌کننده است.",
+    "categories": ["rbc-disorders", "rbc-morphology"],
+    "tags": ["SAO", "south east asian ovalocytosis", "اوالوسیتوز", "band 3", "ovalocyte", "malaria"],
+    "sources": [
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" },
+      { "title": "Adewoyin AS, Nwogoh B. Peripheral blood film — a review. Ann Ib Postgrad Med. 2014", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415389" }
+    ]
+  },
+  "stomatocyte": {
+    "nameFa": "استوماتوسیت",
+    "summary": "استوماتوسیت گلبول قرمزی با مرکز روشن کشیده و شکاف‌مانند (stoma) است که شبیه دهان یا لب‌های بسته دیده می‌شود. این شکل می‌تواند ارثی یا اکتسابی باشد و در برخی موارد فقط یک آرتیفکت است.",
+    "keyFeatures": [
+      "مرکز روشن به صورت شکاف یا نوار باریک",
+      "شکل گرد با یک فرورفتگی مرکزی",
+      "ممکن است در تعداد کم در افراد سالم دیده شود",
+      "در فرم ارثی اغلب با همولیز و اختلال الکترولیت همراه است"
+    ],
+    "diagnosticSignificance": "استوماتوسیتوز ارثی، بیماری کبدی، مصرف الکل، کمبود Rh و برخی داروها می‌توانند استوماتوسیت ایجاد کنند. تعداد زیاد و پایدار آن، بررسی غشای گلبول و وضعیت همولیز را ضروری می‌کند.",
+    "differentialDiagnosis": "از سلول هدف (مرکز روشن گرد و چندلایه) و اکینوسیت افتراق دهید. استوماتوسیت‌های ناشی از آرتیفکت با تهیه لام تازه کاهش می‌یابند.",
+    "categories": ["rbc-morphology"],
+    "tags": ["stomatocyte", "استوماتوسیت", "hereditary stomatocytosis", "liver disease", "Rh null"],
+    "sources": [
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" },
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" }
+    ]
+  },
+  "target-cell": {
+    "nameFa": "سلول هدف",
+    "summary": "سلول هدف (codocyte) گلبول قرمزی است با مرکز تیره، حلقه روشن و لبه تیره، شبیه سیبل یا هدف تیراندازی. این شکل زمانی ایجاد می‌شود که نسبت سطح به حجم غشا افزایش یابد یا محتوای هموگلوبین تغییر کند.",
+    "keyFeatures": [
+      "الگوی سه‌لایه: مرکز تیره، حلقه روشن، لبه تیره",
+      "شکل گرد و یکنواخت در بیشتر سلول‌ها",
+      "اغلب همراه با هیپوکرومی و میکروسیتوز",
+      "ممکن است در ناحیه ضخیم اسمیر تشدید شود"
+    ],
+    "diagnosticSignificance": "سلول هدف در تالاسمی، بیماری کبدی، هموگلوبین C، پس از اسپلنکتومی و کم‌خونی فقر آهن دیده می‌شود. وجود آن به‌تنهایی اختصاصی نیست، اما در بستر بالینی و همراه با سایر یافته‌ها ارزش تشخیصی دارد.",
+    "differentialDiagnosis": "از استوماتوسیت (شکاف مرکزی) و سلول‌های هدف کاذب در ناحیه ضخیم لام افتراق دهید. بررسی الکتروفورز هموگلوبین و آنزیم‌های کبدی در موارد مشکوک کمک‌کننده است.",
+    "categories": ["rbc-morphology", "hemoglobin"],
+    "tags": ["target cell", "codocyte", "سلول هدف", "thalassemia", "liver disease", "HbC"],
+    "sources": [
+      { "title": "NCBI Bookshelf — Peripheral Blood Smear (Clinical Methods)", "url": "https://www.ncbi.nlm.nih.gov/books/NBK263" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "tear-drop-cell-dacrocyte": {
+    "nameFa": "سلول اشکی / داکریوسیت",
+    "summary": "داکریوسیت گلبول قرمزی به شکل قطره اشک است که یک انتهای آن کشیده و نوک‌تیز شده است. این سلول در بیماری‌های مغز استخوان با فیبروز یا انفیلتراسیون و در برخی کم‌خونی‌های همولیتیک دیده می‌شود.",
+    "keyFeatures": [
+      "شکل قطره‌ای با یک دُم کشیده و نوک‌تیز",
+      "اغلب همراه با پویکیلوسیتوز و آنیزوسیتوز",
+      "ممکن است با گلبول‌های هسته‌دار و میلوسیت‌ها همراه باشد",
+      "توزیع نامنظم در اسمیر"
+    ],
+    "diagnosticSignificance": "در میلوفیبروز اولیه، متاستاز مغز استخوان، تالاسمی و کم‌خونی مگالوبلاستیک دیده می‌شود. حضور آن همراه با سلول‌های نابالغ و پیش‌سازهای میلوئید، الگوی leukoerythroblastic را مطرح می‌کند.",
+    "differentialDiagnosis": "از آرتیفکت کشیدن لام و سلول‌های اشکی ناشی از تخریب مکانیکی افتراق دهید. داکریوسیت واقعی معمولاً در تعداد قابل توجه و همراه با سایر تغییرات مغز استخوان دیده می‌شود.",
+    "categories": ["rbc-morphology"],
+    "tags": ["tear drop cell", "dacrocyte", "سلول اشکی", "myelofibrosis", "leukoerythroblastic", "marrow infiltration"],
+    "sources": [
+      { "title": "Ford J. Red blood cell morphology. Int J Lab Hematol. 2013", "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijlh.12082" },
+      { "title": "eClinpath — Red blood cell morphologic features", "url": "https://eclinpath.com/hematology/morphologic-features/red-blood-cells/" }
+    ]
+  },
+  "thalassemia-major": {
+    "nameFa": "تالاسمی ماژور",
+    "summary": "تالاسمی ماژور شکل شدید بتا تالاسمی است که در آن تولید زنجیره بتا به‌شدت کاهش می‌یابد و کم‌خونی میکروسیتیک-هیپوکروم شدید از اوایل کودکی ایجاد می‌شود. اسمیر محیطی تصویری پر از پویکیلوسیتوز، سلول‌های هدف و پیش‌سازهای گلبول قرمز نشان می‌دهد.",
+    "keyFeatures": [
+      "میکروسیتوز و هیپوکرومی شدید",
+      "پویکیلوسیتوز بارز، سلول‌های هدف و قطعات سلولی",
+      "گلبول‌های قرمز هسته‌دار و دانه‌بندی بازوفیلیک",
+      "افزایش تعداد رتیکولوسیت‌ها و ناهمگونی اندازه"
+    ],
+    "diagnosticSignificance": "تشخیص معمولاً با الکتروفورز هموگلوبین (HbF بالا، HbA2 متغیر) و مطالعه ژنتیکی تأیید می‌شود. بیماران اغلب به تزریق خون منظم و مدیریت اضافه‌بار آهن نیاز دارند.",
+    "differentialDiagnosis": "از کم‌خونی فقر آهن شدید، تالاسمی آلفا و کم‌خونی سیدروبلاستیک افتراق دهید. در فقر آهن، RDW بالاتر و فریتین پایین است؛ در تالاسمی، میکروسیتوز با کم‌خونی شدید و HbF بالا دیده می‌شود.",
+    "categories": ["hemoglobin", "rbc-disorders"],
+    "tags": ["thalassemia major", "تالاسمی ماژور", "beta thalassemia", "microcytic anemia", "HbF", "transfusion"],
+    "sources": [
+      { "title": "MedlinePlus Genetics — Beta-thalassemia", "url": "https://medlineplus.gov/genetics/condition/beta-thalassemia/" },
+      { "title": "Adewoyin AS, Nwogoh B. Peripheral blood film — a review. Ann Ib Postgrad Med. 2014", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415389" }
+    ]
+  },
+  "vital-stain-for-hb-h": {
+    "nameFa": "رنگ‌آمیزی ویتال برای Hb H",
+    "summary": "رنگ‌آمیزی ویتال با متیلن بلو یا بریلیانت کرسیل بلو می‌تواند اجسام Hb H را در گلبول‌های قرمز نمایان کند. این اجسام به صورت نقاط آبی-سبز متعدد و ریز در سیتوپلاسم دیده می‌شوند و ظاهری شبیه توپ گلف دارند.",
+    "keyFeatures": [
+      "استفاده از رنگ ویتال تازه، نه رنگ رایت-گیمسا",
+      "اجسام متعدد و ریز با توزیع داخل سیتوپلاسم",
+      "ظاهر «توپ گلف» در سلول‌های دارای Hb H",
+      "همراه با میکروسیتوز و هیپوکرومی در اسمیر معمول"
+    ],
+    "diagnosticSignificance": "این رنگ‌آمیزی در تشخیص تالاسمی آلفا (به‌ویژه بیماری Hb H) کمک‌کننده است و می‌تواند در موارد مشکوک با الکتروفورز طبیعی، شواهد تکمیلی فراهم کند. حساسیت آن به کیفیت رنگ و زمان بررسی وابسته است.",
+    "differentialDiagnosis": "از اجسام Heinz (بزرگ‌تر، کم‌تعداد و اغلب حاشیه‌ای) و اجسام Howell-Jolly (منفرد و تیره با رنگ معمول) افتراق دهید. الگوی متعدد و ریز Hb H در بستر میکروسیتوز آلفا تالاسمی معنا پیدا می‌کند.",
+    "categories": ["hemoglobin", "inclusions"],
+    "tags": ["vital stain", "Hb H inclusions", "رنگ آمیزی ویتال", "alpha thalassemia", "brilliant cresyl blue", "golf ball"],
+    "sources": [
+      { "title": "MedlinePlus Genetics — Alpha-thalassemia", "url": "https://medlineplus.gov/genetics/condition/alpha-thalassemia/" },
+      { "title": "Adewoyin AS, Nwogoh B. Peripheral blood film — a review. Ann Ib Postgrad Med. 2014", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4415389" }
+    ]
+  }
+}
